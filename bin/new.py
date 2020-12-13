@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Author : Ken Youens-Clark <kyclark@gmail.com>
+Author : Sophia Raji <sophiaraji@gmail.com>
 Purpose: Python program to write a Python program
 """
 
