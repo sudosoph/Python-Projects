@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Author : Sophia Raji <sophiaraji@gmail.com>
+Author : Sophia
 Date   : 2020-12-12
 Purpose: Decides proper article for the input and prints string
 """
