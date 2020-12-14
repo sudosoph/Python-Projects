@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Author : Sophia Raji <sophiaraji@gmail.com>
+Author : Sophia
 Date   : 2020-12-14
 Purpose: List and sort picnic items
 """
