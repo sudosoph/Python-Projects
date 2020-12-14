@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Author: Sophia Raji
-<sophiaraji@gmail.com>
+Author: Sophia
 Purpose: Say hello
 """
 
